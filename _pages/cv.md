@@ -85,7 +85,8 @@ Technical Skills
   * R
 * Database:
   * SQL
-* LabView
+* Data Analysis (BI) tools:
+  * Tableau
 * Motion Analysis:
   * VICON Nexus
   * xSens
