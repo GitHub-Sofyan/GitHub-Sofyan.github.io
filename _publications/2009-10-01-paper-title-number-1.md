@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Understanding Stretch Shortening Cycle Ability in Youth"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: https://journals.lww.com/nsca-scj/Abstract/2013/06000/Understanding_Stretch_Shortening_Cycle_Ability_in.10.aspx?trendmd-shared=%25SPONSORED%25
+excerpt: 'EXTENSIVE RESEARCH HAS INVESTIGATED STRETCH-SHORTENING CYCLE (SSC) PERFORMANCE IN ADULTS; HOWEVER, TO DATE, ONLY A FEW STUDIES HAVE INVESTIGATED SSC ABILITY IN YOUTHS. YOUTHS UNDERGOING PUBERTY EXPERIENCE MANY PHYSIOLOGICAL CHANGES, WHICH INCLUDE CHANGES TO NEUROMUSCULAR AND MUSCULOTENDINOUS SYSTEMS. TO UNDERSTAND THE POSSIBLE DIFFERENCES IN SSC ABILITY, THIS REVIEW WILL (A) BRIEFLY DISCUSS MATURATION (BIOLOGICAL VS. CHRONOLOGICAL), (B) DISCUSS THE CONTRIBUTION OF THE ACTIVE AND PASSIVE COMPONENTS TO SSC ABILITY AND HOW THESE COMPONENTS MAY CHANGE WITH MATURATION, AND (C) REVIEW THE LITERATURE THAT HAS QUANTIFIED SSC ABILITY ACROSS MATURATION VIA COMPARISON OF COUNTERMOVEMENT AND SQUAT JUMP PERFORMANCE.'
+date: 2013-06-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://journals.lww.com/nsca-scj/Abstract/2013/06000/Understanding_Stretch_Shortening_Cycle_Ability_in.10.aspx?trendmd-shared=%25SPONSORED%25'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://journals.lww.com/nsca-scj/Abstract/2013/06000/Understanding_Stretch_Shortening_Cycle_Ability_in.10.aspx?trendmd-shared=%25SPONSORED%25)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
