@@ -10,7 +10,7 @@ redirect_from:
 
 The Eternal Student
 ======
-Sofyan Sahrom here, the Eternal Student. 
+Sofyan Sahrom here, an Eternal Student. 
 
 I am a mere mortal that believes we either hypertophy (grow) or atrophy (decay and die). One way to grow is to constantly learn and devleop oneself.
 
@@ -18,7 +18,7 @@ I am a mere mortal that believes we either hypertophy (grow) or atrophy (decay a
 Professionally
 ======
 
-I am an athletic Development specialist with a belief that high performance is achieved through an integrated multi-disciplinary approach, based on actual data and not just pure empirical "say-so". 
+I am an athletic development specialist with a belief that high performance is achieved through an integrated multi-disciplinary approach, based on actual data and not just pure empirical "say-so". 
 
 I passionately believes in a long-term and data-driven approach to development for both athlete and coach.
 
