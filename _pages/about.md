@@ -26,7 +26,7 @@ I am an athletic development specialist with a belief that high performance is a
 
 - As a Data Analyst, I am looking to develop further into machine learning and its integration in sports performance
 
-- Experienced in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning. 
+* Experienced in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning. 
 
 SkillsFuture Fellow 2018
 I am honored to be recognised as a [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships) for 2018. 
