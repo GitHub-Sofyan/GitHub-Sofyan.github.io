@@ -7,7 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Sofyan Sahrom's Repository"
+=======
+title                    : "Sofyan Sahrom Repository"
+>>>>>>> 1765d588db948b1371a81d77ae86b1de87ec3b1c
 title_separator          : "-"
 name                     : &name "Sofyan Sahrom"
 description              : &description "Where the smart_mamat lives online"
@@ -81,8 +85,13 @@ analytics:
 # Site Author
 author:
   name             : "Sofyan Sahrom"
+<<<<<<< HEAD
   avatar           : "profile.png"
   bio              : "PhD Candidate, Edith Cowan University | Athletic Development Specialist | Sports Scientist | Data Scientist | Passionate about maximising the use of Data in Sport"
+=======
+  avatar           : "profile1.png"
+  bio              : "PhD Candidate, Edith Cowan University | Athletic Development Specialist | Sports Scientist | Data Scientist | Passionate about maximising the use of Data"
+>>>>>>> 1765d588db948b1371a81d77ae86b1de87ec3b1c
   location         : "Perth, Western Australia"
   employer         : "Edith Cowan University"
   googlescholar    : 
