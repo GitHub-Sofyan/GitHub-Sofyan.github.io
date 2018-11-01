@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Science(Sports Science), Edith Cowan University, 2007
+* P.G. Diploma in Health Science, Auckland University of Technology, 2010
+* Master of Sport and Exercise Science, Auckland University of Technology, 2013
+* IOC Diploma in Sports Nutrition, Medical Commission of the International Olympic Committee, 2016
+* Ph.D in Biomechanics, Edith Cowan University, 2019 (expected)
 
 Work experience
 ======
