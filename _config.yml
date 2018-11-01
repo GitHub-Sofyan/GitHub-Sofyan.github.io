@@ -8,8 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Sofyan Sahrom's Repository"
-=======
-title                    : "Sofyan Sahrom Repository"
 title_separator          : "-"
 name                     : &name "Sofyan Sahrom"
 description              : &description "Where the smart_mamat lives online"
