@@ -12,47 +12,24 @@ The Eternal Student
 ======
 Sofyan Sahrom here, an Eternal Student. "Always Learning, Always Growing"
 
-<<<<<<< HEAD
-I am a mortal that believes we either hypertophy (grow) or atrophy (decay). One way to grow is to constantly learn and devleop oneself.
-
-=======
 I am a mortal that believes we either hypertophy (grow) or atrophy (decay). One way to grow is to constantly learn and devlope oneself.
->>>>>>> 1765d588db948b1371a81d77ae86b1de87ec3b1c
+
 
 Professionally
 ======
 
-<<<<<<< HEAD
 I am an athletic development specialist with a belief that high performance is achieved through an integrated multi-disciplinary approach, based on actual data and not just pure empirical "say-so". I passionately believes in a long-term and data-driven approach to development for both athlete and coach.
-=======
-I am an athletic development specialist with a belief that high performance is achieved through an integrated multi-disciplinary approach, based on actual data and not just pure empirical "say-so". 
->>>>>>> 1765d588db948b1371a81d77ae86b1de87ec3b1c
 
 - As an S&C Coach, I have had the honor of coaching athletes throughout the full training spectrum from developmental youths to elite adults. 
 
-<<<<<<< HEAD
 - As a Sports Science practitioner, I have contributed through several sports science disciplines and am a firm believer of an integrated/interdisciplinary approach. 
 
 - As a Data Analyst, I am looking to develop further into machine learning and its integration in sports performance
 
 - Experienced in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning. 
-=======
-- As an S&C Coach, I have had the honor of coaching athletes throughout the full training spectrum from developmental youths to elite adults. 
-
-- As a Sports Science practitioner, I have contributed through several sports science disciplines and am a firm believer of an integrated/interdisciplinary approach. 
-
-- As a Data Analyst, I am looking to develop further into machine learning and its integration in sports performance
->>>>>>> 1765d588db948b1371a81d77ae86b1de87ec3b1c
 
 SkillsFuture Fellow 2018
 I am honored to be recognised as a [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships) for 2018. 
 * Presented by the President of the Republic of Singapore, the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
 
-<<<<<<< HEAD
-=======
-* Presented by the President of the Republic of Singapore, the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
-
-For more info
-------
->>>>>>> 1765d588db948b1371a81d77ae86b1de87ec3b1c
 
