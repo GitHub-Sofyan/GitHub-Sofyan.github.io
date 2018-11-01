@@ -12,7 +12,7 @@ The Eternal Student
 ======
 Sofyan Sahrom here, an Eternal Student. "Always Learning, Always Growing"
 
-I am a mere mortal that believes we either hypertophy (grow) or atrophy (decay and die). One way to grow is to constantly learn and devleop oneself.
+I am a mortal that believes we either hypertophy (grow) or atrophy (decay). One way to grow is to constantly learn and devleop oneself.
 
 
 Professionally
@@ -26,10 +26,10 @@ I am an athletic development specialist with a belief that high performance is a
 
 - As a Data Analyst, I am looking to develop further into machine learning and its integration in sports performance
 
-* Experienced in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning. 
+- Experienced in the area of Biomechanics, Performance Analysis, Data Analytics and Strength and Conditioning. 
 
 SkillsFuture Fellow 2018
 I am honored to be recognised as a [SkillsFuture Fellow](http://www.skillsfuture.sg/fellowships) for 2018. 
-- Presented by the President of the Republic of Singapore, the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
+* Presented by the President of the Republic of Singapore, the SkillsFuture Fellowships honour individuals as masters of skills and mentors of future talent.
 
 
