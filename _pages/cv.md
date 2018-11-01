@@ -78,12 +78,17 @@ Skills
 * Performance Analysis
 * Biomechanics Analysis
 
-Programming Skills
+Technical Skills
 ======
-* Python
-* SQL
-* R
+* Programming Languages:
+  * Python
+  * R
+* Database:
+  * SQL
 * LabView
+* Motion Analysis:
+  * VICON Nexus
+  * xSens
 
 Publications
 ======
