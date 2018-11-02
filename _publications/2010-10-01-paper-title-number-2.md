@@ -6,10 +6,8 @@ excerpt: 'This cross-sectional study aims to compare the differences between the
 date: 2014-08-01
 venue: 'Journal of Athletic Enhancement'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Sahrom, S., Cronin, J., & Harris, N. (2014). Slow Stretch-Shorten Cycle Characteristics: Gender and Maturation Differences in Singaporean Youths. Journal of Athletic Enhancement. Retrieved from http://scitechnol.com/slow-stretchshorten-cycle-characteristics-gender-and-maturation-differences-in-singaporean-youths-bRBy.pdf'
+citation: 'Sahrom, S., Cronin, J., & Harris, N. (2014). Slow Stretch-Shorten Cycle Characteristics: Gender and Maturation Differences in Singaporean Youths. Journal of Athletic Enhancement.
 ---
-This paper is about the number 2. The number 3 is left for future work.
+[Download paper here](http://scitechnol.com/slow-stretchshorten-cycle-characteristics-gender-and-maturation-differences-in-singaporean-youths-bRBy.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Sahrom, S., Cronin, J., & Harris, N. (2014). Slow Stretch-Shorten Cycle Characteristics: Gender and Maturation Differences in Singaporean Youths. Journal of Athletic Enhancement. Retrieved from http://scitechnol.com/slow-stretchshorten-cycle-characteristics-gender-and-maturation-differences-in-singaporean-youths-bRBy.pdf.
+Recommended citation: Sahrom, S., Cronin, J., & Harris, N. (2014). Slow Stretch-Shorten Cycle Characteristics: Gender and Maturation Differences in Singaporean Youths. Journal of Athletic Enhancement. 
